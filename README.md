@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sakshigupta1301/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sakshigupta1301/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sakshigupta1301/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sakshigupta1301/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sakshigupta1301/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sakshigupta1301/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sakshigupta1301/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
