@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshigupta1301/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sakshigupta1301/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sakshigupta1301/DSA/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sakshigupta1301/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sakshigupta1301/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sakshigupta1301/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
