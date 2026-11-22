@@ -87,4 +87,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sakshigupta1301/DSA/tree/master/0733-flood-fill) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sakshigupta1301/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
