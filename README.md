@@ -6,6 +6,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sakshigupta1301/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sakshigupta1301/DSA/tree/master/1837-sum-of-digits-in-base-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sakshigupta1301/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0733-flood-fill](https://github.com/sakshigupta1301/DSA/tree/master/0733-flood-fill) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sakshigupta1301/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sakshigupta1301/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/sakshigupta1301/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -36,6 +38,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sakshigupta1301/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -96,4 +99,12 @@
 |  |
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sakshigupta1301/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
