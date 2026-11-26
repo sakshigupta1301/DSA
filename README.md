@@ -6,6 +6,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sakshigupta1301/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sakshigupta1301/DSA/tree/master/1837-sum-of-digits-in-base-k) |
+| [3360-stone-removal-game](https://github.com/sakshigupta1301/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sakshigupta1301/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/sakshigupta1301/DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
