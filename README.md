@@ -21,10 +21,12 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/sakshigupta1301/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sakshigupta1301/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/sakshigupta1301/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshigupta1301/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/sakshigupta1301/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshigupta1301/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/sakshigupta1301/DSA/tree/master/3360-stone-removal-game) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sakshigupta1301/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
